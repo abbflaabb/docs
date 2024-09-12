@@ -21,10 +21,5 @@ sidebar_position: 5.2
 
 ```xml
 <!--BedWars1058 API-->
-<dependency>
-  <groupId>com.andrei1058.bedwars</groupId>
-  <artifactId>bedwars-api</artifactId>
-  <version>VERSION-HERE</version>
-</dependency>
 
 ```
